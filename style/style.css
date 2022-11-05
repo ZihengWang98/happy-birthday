@@ -118,7 +118,7 @@ body {
 
 .six img {
   display: inline-block;
-  /* max-width: 90%; */
+  /* max-width: 80%; */
   width:500px;
   height:700px;
 
@@ -127,8 +127,8 @@ body {
 .six .hat {
   position: absolute;
   width: 80px;
-  top: 100px;
-  left: 44.5%;
+  top: -100px;
+  left: 40.5%;
   /* transform: scale(0.1); */
 }
 
