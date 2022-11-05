@@ -120,14 +120,14 @@ body {
   display: inline-block;
   /* max-width: 80%; */
   width:550px;
-  height:900px;
+  height:800px;
 
 }
 
 .six .hat {
   position: absolute;
   width: 80px;
-  top: -300px;
+  top: -100px;
   left: 40.5%;
   /* transform: scale(0.1); */
 }
