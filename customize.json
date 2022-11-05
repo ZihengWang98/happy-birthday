@@ -1,5 +1,5 @@
 {
-  "greeting": "Hiya",
+  "greeting": "Hi",
   "name": "宝宝贝贝",
   "greetingText": "I really miss you btw...",
   "wishText": "I will always be with you! ;)",
@@ -9,8 +9,8 @@
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
-  "text4": "I realised, I wanted to do something",
-  "text4Adjective": "special",
+  "text4": "我意识到，我想做一些特别的事情",
+  "text4Adjective": "特别",
   "text5Entry": "Because,",
   "text5Content": "You are Special",
   "smiley": ":)",
