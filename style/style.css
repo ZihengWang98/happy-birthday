@@ -119,6 +119,7 @@ body {
 .six img {
   display: inline-block;
   max-width: 100%;
+  width： 300px
   height: auto;
 }
 
